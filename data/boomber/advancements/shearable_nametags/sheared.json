@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "damage": {
+          "source_entity": {
+            "nbt": "{SelectedItem:{id:\"minecraft:shears\"}}"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "boomber:shearable_nametags/shearing/sheared"
+  }
+}

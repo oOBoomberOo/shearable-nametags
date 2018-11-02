@@ -1,0 +1,17 @@
+{
+	"display": {
+		"title": "Shearable Nametags v1.1",
+		"description": "Reusable Nametag",
+		"icon": {
+			"item": "minecraft:name_tag"
+		},
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent": "boomber:boomber",
+	"criteria": {
+		"trigger": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

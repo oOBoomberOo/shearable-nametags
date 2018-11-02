@@ -1,0 +1,15 @@
+{
+  "values": [
+    "minecraft:item_frame",
+    "minecraft:armor_stand",
+    "minecraft:item",
+    "minecraft:minecart",
+    "minecraft:furnace_minecart",
+    "minecraft:chest_minecart",
+    "minecraft:command_block_minecart",
+    "minecraft:hopper_minecart",
+    "minecraft:tnt_minecart",
+    "minecraft:area_effect_cloud",
+    "minecraft:player"
+  ]
+}
